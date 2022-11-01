@@ -387,8 +387,6 @@ sh /home/[имя_пользователя]/scripts/StartupScript.sh
 
 Цыганок Василий Александрович, [GitHub-ReZuCoS]
 
-Дудин Никита Антонович, [GitHub-Nikita2001D]
-
 ##### 14.11.2021
 
 [GitHub-ReZuCoS]: <https://github.com/ReZuCoS/> "Нажмите для перехода"
